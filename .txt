@@ -1,0 +1,7 @@
+kubectl get all
+kubectl apply -f .\sample-pod.yml
+kubectl delete
+kubectl delete pods
+kubectl get pods
+kubectl logs
+kubectl apply -f. runคำสั่งทั้งหมดที่มีพร้อมกัน
